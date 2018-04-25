@@ -1,0 +1,2 @@
+# ising
+otimização ising
